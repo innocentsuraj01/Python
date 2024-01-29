@@ -1,8 +1,5 @@
-n1 = int(input("Enter a number:"))
+n1 = int(input("Enter a number1:"))
+n2 = int(input("Enter a number2:"))
 
-
-if n1%2==0:
-    print("Even number")
-else:
-    print("Odd number")    
+print("product of two numbers:",n1*n2)
 
