@@ -1,4 +1,8 @@
-n1 = int(input("Enter a number1:"))
-n2 = int(input("Enter a number2:"))
+n1 = int(input("Enter a number:"))
 
-print("Sum of number:",n1+n2)
+
+if n1%2==0:
+    print("Even number")
+else:
+    print("Odd number")    
+
