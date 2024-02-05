@@ -1,6 +1,4 @@
-n1 = int(input("Enter a number1:"))
-n2 = int(input("Enter a number2:"))
+a = int(input("Eneter a number1:"))
+b = int(input("Eneter a number2:"))
 
-print("product of two numbers:",n1*n2)
-
-
+print("Sum of two numbers:",a + b)
