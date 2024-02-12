@@ -1,4 +1,4 @@
-n = 3
+n = int (input ("Enter a Number:"))
 f = 1
 
 for i in range (1, n+1):
