@@ -4,4 +4,4 @@ while n > 0:
     digit = n % 10
     n = n // 10
     Result = Result + digit
-print (Result)
+print ("sum of digit of", n ,"is", Result)
