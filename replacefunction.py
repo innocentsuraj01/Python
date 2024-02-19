@@ -1,2 +1,3 @@
 str1 ='Hello World'
-str1.replace('o','*')
+print(str1.replace('o','*'))
+
