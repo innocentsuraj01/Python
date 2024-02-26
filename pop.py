@@ -1,2 +1,3 @@
 list1 = [10,20,30,40,50]
-print('pop(3)')
+list1 . pop(3)
+print (list1)
